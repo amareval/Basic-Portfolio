@@ -1,5 +1,11 @@
 body{
     background: rgb(175, 171, 171);
+    padding:0;
+    margin:0;
+}
+header{
+    background: white;
+    margin: 0;
 }
 #Top {
     background: white;
@@ -7,6 +13,7 @@ body{
     display: inline-block;
     overflow: hidden;
     width: 100%;
+    height: 90px;
 }
 .Name {
     background:#4aaaa5;
@@ -16,6 +23,8 @@ body{
     padding: 20px;
     margin-top: 0px;
     margin-left: 20%;
+    margin-bottom: 0px;
+    height: 100%;
 }
 #links {
     float: left;
