@@ -26,13 +26,21 @@ header{
     float:left;
     padding: 20px;
     margin-top: 0px;
-    margin-left: 20%;
+    margin-left: 12%;
     margin-bottom: 0px;
     height: 100%;
+}
+a {
+    color: #777777;
+    text-decoration-line: none;
+    padding: 4px;
+    font-size: x-large;
+    font-family: 'Georgia' 
 }
 #links {
     float: left;
     color: grey;
+    text-decoration: none;
     width: 80%;
     height: 50px;
     margin-top: 30px;
