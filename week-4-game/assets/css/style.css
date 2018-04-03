@@ -1,0 +1,47 @@
+body{
+    background-image: url("milky-way.jpg");
+    
+}
+container{
+    color:white;
+}
+.directions{
+    margin-top: 40px;
+    background-color: black;
+    padding: 10px;
+}
+h1{
+    background-color: blueviolet;
+    padding: 15px;
+}
+.yournumber{
+    margin-top: 10px;
+}
+.rick1{
+    width: 150px;
+    height: 150px;
+}
+.rick2{
+    width: 150px;
+    max-height: 150px;
+}
+.rick3{
+    width: 150px;
+    max-height: 150px;
+}
+.rick4{
+    width: 150px;
+    max-height: 150px;
+}
+
+.computerNumber{
+    background: teal;
+}
+
+.score{
+    background: violet;
+}
+.pic{
+    width: 23%;
+    display: inline-block;
+}
